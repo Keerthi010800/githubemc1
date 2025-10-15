@@ -1,0 +1,5 @@
+Stage your changes → git add
+
+Commit them → git commit
+
+Push to GitHub → git push
